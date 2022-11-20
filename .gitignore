@@ -1,9 +1,8 @@
-# Fichier de configuration Eclipse
-.project
-# Fichiers de configuration Idea
-.idea
-*.iml
-# Archives Zip des composants
-*.zip
-# Répertoire de travail de Talend bin
-bin
+**/jobInfo.properties
+.JETEmitters/
+.Java/
+.metadata/
+PROJETA/code/routines/system/*.*
+PROJETA/temp/
+PROJETA/sqlPatterns/
+PROJETA/talend.project
